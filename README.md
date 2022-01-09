@@ -47,3 +47,16 @@ Add badges to your Profile and Projects.
 | Spring |![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&style=flat&logoColor=white)| `![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&style=flat&logoColor=white)` |
 | Vue.Js |![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)| `![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)` |
 
+
+### OS
+
+| Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Linux |![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)| `![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)` |
+| Ubuntu |![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)| `![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)` |
+| Windows |![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)| `![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)` |
+| Rasberry Pi |![https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat](Rasberry Pi)| `![https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat](Rasberry Pi)` |
+| Android |![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=flat&logoColor=white)| `![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=flat&logoColor=white)` |
+| IOS |![IOS](https://img.shields.io/badge/IOS-000000.svg?logo=ios&style=flat&logoColor=white)| `![IOS](https://img.shields.io/badge/IOS-000000.svg?logo=ios&style=flat&logoColor=white)` |
+
+
