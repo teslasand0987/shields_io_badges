@@ -26,4 +26,24 @@ Add badges to your Profile and Projects.
 | Scala |![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&style=flat&logoColor=white)| `![Scala](https://img.shields.io/badge/Scala-DC322F.svg?logo=Scala&style=flat&logoColor=white)` |
 | Swift |![Switf](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white)| `![Swift](https://img.shields.io/badge/Swift-F05138.svg?logo=Swift&style=flat&logoColor=white)` |
 | Kotlin |![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&style=flat&logoColor=white)| `![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&style=flat&logoColor=white)` |
-| Dert |![Dert](https://img.shields.io/badge/Dart-230175C2.svg?logo=dart&style=flat&logoColor=white)| `![Dert](https://img.shields.io/badge/Dart-230175C2.svg?logo=dart&style=flat&logoColor=white)` |
+| Dart |![Dert](https://img.shields.io/badge/Dart-230175C2.svg?logo=dart&style=flat&logoColor=white)| `![Dert](https://img.shields.io/badge/Dart-230175C2.svg?logo=dart&style=flat&logoColor=white)` |
+
+### Framework
+| Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| .Net |![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.Net&style=flat&logoColor=white)| `![.Net](https://img.shields.io/badge/.NET-5C2D91.svg?logo=.Net&style=flat&logoColor=white)` |
+| Bootstrap |![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&style=flat&logoColor=white)| `![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&style=flat&logoColor=white)` |
+| Jquery |![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=flat&logoColor=white)| `![Jquery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jquery&style=flat&logoColor=white)` |
+| Flutter |![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=Flutter&style=flat&logoColor=white)| `![Flutter](https://img.shields.io/badge/Flutter-02569B.svg?logo=Flutter&style=flat&logoColor=white)` |
+| Angular |![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=flat&logoColor=white)| `![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&style=flat&logoColor=white)` |
+| Django |![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&style=flat&logoColor=white)| `![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&style=flat&logoColor=white)` |
+| Flask |![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&style=flat&logoColor=white)| `![Flask](https://img.shields.io/badge/Flask-%23000.svg?logo=flask&style=flat&logoColor=white)` |
+| Laravel |![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&style=flat&logoColor=white)| `![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&style=flat&logoColor=white)` |
+| CakePHP |![CakePHP](https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat)| `![CakePHP](https://img.shields.io/badge/-CakePHP-D3DC43.svg?logo=cakephp&style=flat)` |
+| Next JS |![NextJS](https://img.shields.io/badge/Next-black.svg?logo=next.js&style=flat&logoColor=white)| `![Next JS](https://img.shields.io/badge/Next-black.svg?logo=next.js&style=flat&logoColor=white)` |
+| Node.js |![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)| `![Node.js](https://img.shields.io/badge/Node.js-6DA55F.svg?logo=node.js&style=flat&logoColor=white)` |
+| Rails |![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&style=flat&logoColor=white)| `![Rails](https://img.shields.io/badge/Rails-%23CC0000.svg?logo=ruby-on-rails&style=flat&logoColor=white)` |
+| React |![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)| `![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&style=flat)` |
+| Spring |![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&style=flat&logoColor=white)| `![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?logo=spring&style=flat&logoColor=white)` |
+| Vue.Js |![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)| `![Vue.Js](https://img.shields.io/badge/Vue.js-%2335495e.svg?logo=vuedotjs&style=flat)` |
+
