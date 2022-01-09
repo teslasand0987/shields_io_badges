@@ -55,9 +55,28 @@ Add badges to your Profile and Projects.
 | Linux |![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)| `![Linux](https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat)` |
 | Ubuntu |![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)| `![Ubuntu](https://img.shields.io/badge/-Ubuntu-6F52B5.svg?logo=ubuntu&style=flat)` |
 | Windows |![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)| `![Windows](https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat)` |
-| Rasberry Pi |![Rasberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)| `![https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat](Rasberry Pi)` |
+| Rasberry Pi |![Rasberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)| `![Rasberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A.svg?logo=raspberry-pi&style=flat)` |
 | Android |![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=flat&logoColor=white)| `![Andorid](https://img.shields.io/badge/Android-3DDC84.svg?logo=android&style=flat&logoColor=white)` |
 | IOS |![IOS](https://img.shields.io/badge/IOS-000000.svg?logo=ios&style=flat&logoColor=white)| `![IOS](https://img.shields.io/badge/IOS-000000.svg?logo=ios&style=flat&logoColor=white)` |
+
+### Server・Cloud・SaaS・Others
+
+| Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Apache |![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&style=flat&logoColor=white)| `![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?logo=apache&style=flat&logoColor=white)` |
+| Nginx |![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)| `![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&style=flat&logoColor=white)` |
+| AWS |![AWS](https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)| `![AWS](https://img.shields.io/badge/Amazon AWS-232F3E.svg?logo=amazon-aws&style=flat&logoColor=white)` |
+| FireBase |![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=flat)| `![FireBase](https://img.shields.io/badge/Firebase-%23039BE5.svg?logo=firebase&style=flat)` |
+| Google Cloud |![GC](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&style=flat&logoColor=white)| `![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?logo=google-cloud&style=flat&logoColor=white)` |
+| Heroku |![heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&style=flat&logoColor=white)| `![heroku](https://img.shields.io/badge/Heroku-%23430098.svg?logo=heroku&style=flat&logoColor=white)` |
+| Oracle |![oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&style=flat&logoColor=white)| `![oracle](https://img.shields.io/badge/Oracle-F80000.svg?logo=oracle&style=flat&logoColor=white)` |
+| Ansible |![Ansible](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat)| `![Ansbile](https://img.shields.io/badge/-Ansible-EE0000.svg?logo=ansible&style=flat)` |
+| Docker |![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)| `![Docker](https://img.shields.io/badge/-Docker-%230db7ed.svg?logo=docker&style=flat&logoColor=white)` |
+| MySQL |![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=flat&logoColor=white)| `![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&style=flat&logoColor=white)` |
+| MariaDB |![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&style=flat&logoColor=white)| `![MariaDB](https://img.shields.io/badge/MariaDB-003545.svg?logo=mariadb&style=flat&logoColor=white)` |
+| SQLite |![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=flat&logoColor=white)| `![SQLite](https://img.shields.io/badge/SQLite-%2307405e.svg?logo=sqlite&style=flat&logoColor=white)` |
+| Git |![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=flat&logoColor=white)| `![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&style=flat&logoColor=white)` |
+| GitHub |![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white)| `![GitHub](https://img.shields.io/badge/Github-%23121011.svg?logo=GitHub&style=flat&logoColor=white)` |
 
 
 
