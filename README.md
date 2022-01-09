@@ -87,6 +87,23 @@ Add badges to your Profile and Projects.
 | Xcode |![Xcode](https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat)| `![Xcode](https://img.shields.io/badge/-Xcode-EEE.svg?logo=xcode&style=flat)` |
 | Eclipse |![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)| `![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=eclipse&style=flat&logoColor=white)` |
 
+#SNS
+| Name          | Badge                                                                                                                            | Markdown                                                                                                                           |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| Youtube |![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&style=flat&logoColor=white)| `![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?logo=Youtube&style=flat&logoColor=white)` |
+| TikTok |![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=flat&logoColor=white)| `![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&style=flat&logoColor=white)` |
+| Discord |![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=flat&logoColor=white)| `![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&style=flat&logoColor=white)` |
+| FaceBook |![FaceBook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&style=flat&logoColor=white)| `![FaceBook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&style=flat&logoColor=white)` |
+| Gmail |![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=flat&logoColor=white)| `![Gmail](https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&style=flat&logoColor=white)` |
+| Instagram |![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=flat&logoColor=white)| `![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=flat&logoColor=white)` |
+| Line |![Line](https://img.shields.io/badge/Line-00C300.svg?logo=Line&style=flat&logoColor=white)| `![Line](https://img.shields.io/badge/Line-00C300.svg?logo=Line&style=flat&logoColor=white)` |
+| Twitch |![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)| `![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&style=flat&logoColor=white)` |
+| Twitter |![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)| `![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&style=flat&logoColor=white)` |
+| Slack |![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&style=flat&logoColor=white)| `![Slack](https://img.shields.io/badge/Slack-4A154B.svg?logo=Slack&style=flat&logoColor=white)` |
+| Skype |![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Slack&style=flat&logoColor=white)| `![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?logo=Slack&style=flat&logoColor=white)` |
+| Zoom |![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?logo=Zoom&style=flat&logoColor=white)| `![Zoom](https://img.shields.io/badge/Zoom-2D8CFF.svg?logo=Zoom&style=flat&logoColor=white)` |
+
+
 
 
 
